@@ -1,10 +1,11 @@
-import classes from "../components/CocktailsList.module.css";
+import Home from "../components/Home";
 
 function HomePage() {
   return (
-    <div className={classes.events}>
-      <h1>HomePage</h1>
-    </div>
+    <Home
+      title="Cocktails for everyone 🍹"
+      description="Summer is coming, here you can start preparing the best cocktails to impress your friends"
+    />
   );
 }
 
