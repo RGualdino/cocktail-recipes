@@ -22,6 +22,6 @@ Welcome to the Cocktail Recipes Web App! This is a simple web application built 
 To run this application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Install dependencies by running npm install.
-4. Start the development server with npm start.
-5. Open your browser and visit http://localhost:3000 to view the app.
+3. Install dependencies by running `npm install`.
+4. Start the development server with `npm start`.
+5. Open your browser and visit `http://localhost:3000` to view the app.
